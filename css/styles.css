@@ -188,12 +188,16 @@ width:146px;
     margin-bottom: 0px;
     position: relative;
     width: 100%;
-    bottom: 100px;
+    height: 100px;
+    top: 870px;
 }
 .linked
 {
-  
+
 }
 .copy{
-
+  position: relative;
+      top: 43px;
+      color: currentColor;
+      font-size: xx-large;
 }
