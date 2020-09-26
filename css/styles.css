@@ -34,7 +34,7 @@ h1 {
 }
 
 .middle-container {
-
+padding: 0px 100px;
 }
 .imgres{
   text-align: center;
@@ -96,7 +96,6 @@ padding: 0% 15%;
     /* margin: 10px 30% 80px 0%; */
     /* left: 375px; */
     padding: 0% 40% 0% 40%;
-    text-align: left;
     line-height: 2;
     padding: 0% 15%;
 }
